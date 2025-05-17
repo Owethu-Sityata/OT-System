@@ -1,0 +1,22 @@
+﻿Web App – Login Details
+Client-side web application URL:
+ https://apex.oracle.com/pls/apex/r/owethudb/ot-system/
+Login details (users with workspace administrator privileges):
+* Username:
+
+khanyiso@lifechoices.co.za
+
+ruth@lifechoices.co.za
+
+matthew@lifechoices.co.za
+
+   * Password: lecturer07
+
+________________
+
+
+APEX Backend Login Details
+Workspace: OWETHUDB
+Username:   SITYATAO5@GMAIL.COM
+Password:   Student01
+________________
